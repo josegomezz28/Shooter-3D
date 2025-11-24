@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 23082f294a436034fbc8b07a6ac33160
+  - enabled: 1
+    path: Assets/Scenes/Juego.unity
+    guid: 43e11e659687b4e4a96a42a1e09b15a9
+  - enabled: 1
+    path: Assets/Scenes/Dificultad.unity
+    guid: 12b231bfdc365cd48a5caf8a62b54854
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: b7c89afd5487d6449bd6e3e05450dc72
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: c89e55a72f4e78a41809d43a975a7e01
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  m_UseUCBPForAssetBundles: 0
